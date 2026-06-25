@@ -6,6 +6,13 @@ __pycache__/
 combined_output.csv
 combined_output.json
 PGS_results.csv
+2950_filtred.csv
+PGS_Results_master.csv
+extracted_list.xlsx
+extracted_pgs.xlsx
+not extracted_pgs.xlsx
+scripts/filtred_output.csv
+scripts/filtred_output.xlsx
 
 # Large datasets
 data/
